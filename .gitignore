@@ -27,3 +27,4 @@
 /.ovhconfig
 /drush/
 /scripts/
+/load.environment.php
